@@ -1,0 +1,9 @@
+[init]
+	defaultBranch = master
+[core]
+	editor = nano
+[pull]
+	rebase = true
+[user]
+	name = Amir Hosein Salimi
+	email = iamirhoseinsalimi@gmail.com
